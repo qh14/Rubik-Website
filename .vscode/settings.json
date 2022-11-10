@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\FPT\\FALL 2022\\SWP391\\servlet-api.jar",
+        "d:\\SUMMER 2022\\PRJ301\\Library\\gson-2.2.2.jar",
+        "d:\\SUMMER 2022\\PRJ301\\Library\\rest-api-sdk-1.14.0.jar",
+        "d:\\SUMMER 2022\\PRJ301\\Library\\slf4j-api-1.7.21.jar"
+    ]
+}
